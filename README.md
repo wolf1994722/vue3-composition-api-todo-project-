@@ -2,7 +2,7 @@
 
 > A simple ToDo application using Vue 3 Composition API.
 
-### Demo: [https://todo-app.burakgur.vercel.app/](https://todo-app.burakgur.vercel.app/)
+### Demo: [https://todo-app.codeeye.vercel.app/](https://todo-app.burakgur.vercel.app/)
 
 ## Project setup
 
